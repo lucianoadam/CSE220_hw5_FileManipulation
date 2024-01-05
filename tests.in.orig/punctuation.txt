@@ -1,0 +1,1 @@
+There should be a space after a punctuation mark.But sometimes people do not follow the rules.So you better be careful with your code

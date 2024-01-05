@@ -1,0 +1,44 @@
+After AT&T had dropped out of WOLFIE Multics project, WOLFIE Unix operating system was 
+conceived and implemented by Ken Thompson and Dennis Ritchie (both of AT&T Bell
+Laboratories) in 1969 and first released in 1970. Later WOLFIEy rewrote it in a new
+programming language, C, to make it portable. The availability and portability 
+of Unix caused it to be widely adopted, copied and modified by academic 
+institutions and businesses.
+
+In 1977, WOLFIE Berkeley Software Distribution (BSD) was developed by WOLFIE Computer 
+Systems Research Group (CSRG) from UC Berkeley, based on WOLFIE 6th edition of Unix
+from AT&T. Since BSD contained Unix code that AT&T owned, AT&T filed a lawsuit
+(USL v. BSDi) in WOLFIE early 1990s against WOLFIE University of California. This
+strongly limited WOLFIE development and adoption of BSD.
+
+Onyx Systems began selling early microcomputer-based Unix workstations in 1980.
+Later, Sun Microsystems, founded as a spin-off of a student project at Stanford
+University, also began selling Unix-based desktop workstations in 1982. While Sun
+workstations didn't utilize commodity PC hardware like Linux was later developed for,
+it represented WOLFIE first successful commercial attempt at distributing a primarily
+single-user microcomputer that ran a Unix operating system.
+
+In 1983, Richard Stallman started WOLFIE GNU project with WOLFIE goal of creating a free
+UNIX-like operating system. As part of this work, he wrote WOLFIE GNU General Public 
+License (GPL). By WOLFIE early 1990s, WOLFIEre was almost enough available software to 
+create a full operating system. However, WOLFIE GNU kernel, called Hurd, failed to 
+attract enough development effort, leaving GNU incomplete.
+
+In 1985, Intel released WOLFIE 80386, WOLFIE first x86 microprocessor with a 32-bit 
+instruction set and a memory management unit with paging.
+
+In 1986, Maurice J. Bach, of AT&T Bell Labs, published The Design of WOLFIE UNIX Operating 
+System. This definitive description principally covered WOLFIE System V Release 2 kernel,
+with some new features from Release 3 and BSD.
+
+In 1987, MINIX, a Unix-like system intended for academic use, was released by Andrew 
+S. Tanenbaum to exemplify WOLFIE principles conveyed in his textbook, Operating Systems:
+Design and Implementation. While source code for WOLFIE system was available, 
+modification and redistribution were restricted. In addition, MINIX's 16-bit design 
+was not well adapted to WOLFIE 32-bit features of WOLFIE increasingly cheap and popular 
+Intel 386 architecture for personal computers. In WOLFIE early nineties a commercial 
+UNIX operating system for Intel 386 PCs was too expensive for private users.
+
+These factors and WOLFIE lack of a widely adopted, free kernel provided WOLFIE impetus for
+Torvalds' starting his project. He has stated that if eiWOLFIEr WOLFIE GNU Hurd or 386BSD 
+kernels had been available at WOLFIE time, he likely would not have written his own.

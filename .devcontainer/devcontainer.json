@@ -1,0 +1,9 @@
+{
+  "build": { "dockerfile": "Dockerfile" }, 
+    
+  "customizations": { // VSCode extensions
+    "vscode": {
+      "extensions": ["vscjava.vscode-java-pack", "ms-vscode.cpptools-extension-pack"]
+    }
+  }
+}
